@@ -1,11 +1,12 @@
-site_name: 'ESIIL Postdoctoral Researcher OASIS'
-site_description: 'Central resource for ESIIL postdoctoral researchers'
-site_author: Ty Tuff
-site_url: https://cu-esiil.github.io/Postdoc_OASIS
+site_name: 'Katie Jones personal website'
+site_description: 'my page'
+site_author: Katie Jones
+site_url: https://github.com/kjones13/kj_website_24
 
 # Repository
-repo_name: Postdoc_OASIS
-repo_url: https://github.com/CU-ESIIL/Postdoc_OASIS
+repo_name: kj_website_24
+repo_url: https://github.com/kjones13/kj_website_24
+
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2023 University of Colorado Boulder'

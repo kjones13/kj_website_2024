@@ -1,9 +1,6 @@
-# Postdoc OASIS
-This is the central hub for information pertaining to ESIIL Postdocs
+# Katie Jones
 
-# [Your Name]
-
-Welcome to the [Your Name] repository, part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository serves as the central hub for our research at ESIIL, hosting your project description, proposals, bio, codebase, and more.
+Welcome to my repository, part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository serves as the central hub for our research at ESIIL, hosting your project description, proposals, bio, codebase, and more.
 
 ## Your Project
 
